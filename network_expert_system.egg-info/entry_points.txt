@@ -1,0 +1,2 @@
+[console_scripts]
+network-expert = app.main:main

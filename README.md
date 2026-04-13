@@ -1,3 +1,14 @@
+
+<img width="890" height="786" alt="image" src="https://github.com/user-attachments/assets/3091cac4-19ea-4baa-bcf5-0fa953f12cf5" />
+#data training
+
+
+<img width="879" height="552" alt="image" src="https://github.com/user-attachments/assets/362d6d5e-acf5-4755-b619-327ddd0b0e3d" />
+#tested one diagnosis
+
+
+<img width="1181" height="662" alt="image" src="https://github.com/user-attachments/assets/3d1974b4-bff8-4ae7-8f78-58c648c1f836" />
+#UI
 # Rule-Based Expert System for Network Troubleshooting (Hybrid ML)
 
 A production-style Python expert system that combines:
